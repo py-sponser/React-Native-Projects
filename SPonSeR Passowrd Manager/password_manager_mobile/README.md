@@ -10,3 +10,5 @@
 - Ability to change root password.
 - Setting security questions.
 - Verify security questions when forgetting root password.
+
+- APK Download Link > https://lbx.to/f/zjBwajC
