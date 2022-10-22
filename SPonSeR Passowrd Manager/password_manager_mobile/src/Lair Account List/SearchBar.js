@@ -31,7 +31,7 @@ export const SearchBar = (props) => {
         setTextToSearch(text)
         if(text.length > 0){
             const filteredWebsites = storeCtx.storedWebsites.filter((website) => {
-                if(website.name.toLowerCase().includes(text)){
+                if(website.name.toLowerCase().includes(text.toLowerCase())){
                     return website;
                 }
             })
