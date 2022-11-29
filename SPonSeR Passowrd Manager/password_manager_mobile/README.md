@@ -1,7 +1,6 @@
 # Android Application
 
 - Depending on Asynchronous Storage.
-- APK Download Link > https://lbx.to/f/LfLO800
 
 [+] Features:
 -------------
